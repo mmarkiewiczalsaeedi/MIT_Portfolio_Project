@@ -8,7 +8,7 @@ Welcome to my MIT Full Stack Developer Portfolio! This project showcases a clean
 
 ### Badges
 
-[![MIT License](badge-link)](https://github.com/mmarkiewiczalsaeedi/mitxpro-portfolio-project/blob/main/LICENSE)
+[![MIT License](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/mmarkiewiczalsaeedi/mitxpro-portfolio-project/blob/main/LICENSE)
 
 ### Visuals
 

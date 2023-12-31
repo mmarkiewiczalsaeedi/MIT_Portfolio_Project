@@ -8,11 +8,11 @@ Welcome to my MIT Full Stack Developer Portfolio! This project showcases a clean
 
 ### Badges
 
-[![MIT License](badge-link)](link-to-mit-license)
+[![MIT License](badge-link)](https://github.com/mmarkiewiczalsaeedi/mitxpro-portfolio-project/blob/main/LICENSE)
 
 ### Visuals
 
-Check out the [video introduction](link-to-youtube) to learn more about me, my skills, and the work I've done. The video is embedded on the homepage and is under 2 minutes.
+Check out the [video introduction](https://www.youtube.com/watch?v=TqLMlGNNXQg) to learn more about me, my skills, and the work I've done. The video is embedded on the homepage and is under 2 minutes.
 
 ### Installation
 
@@ -32,7 +32,7 @@ Explore the portfolio to see examples of my work:
 
 ### Support
 
-If you encounter any issues or have questions, feel free to open an issue on the [issue tracker](link-to-issue-tracker) or reach out to me via [email](mailto:your-email@example.com).
+If you encounter any issues or have questions, feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/mmarkiewiczalsaeedi/?originalSubdomain=de).
 
 ### Roadmap
 
@@ -56,6 +56,7 @@ Contributions are welcome! If you want to contribute, please follow these guidel
 
 I would like to express my gratitude to the following resources that have been instrumental in the development of my portfolio:
 
+- Massachusetts Institute of Technology (MIT)
 - ChatGPT
 - W3Schools
 - Geeksforgeeks
@@ -63,7 +64,7 @@ I would like to express my gratitude to the following resources that have been i
 
 ### License
 
-This project is licensed under the terms of the [MIT License](link-to-mit-license).
+This project is licensed under the terms of the [MIT License](https://github.com/mmarkiewiczalsaeedi/mitxpro-portfolio-project/blob/main/LICENSE).
 
 ### Project Status
 

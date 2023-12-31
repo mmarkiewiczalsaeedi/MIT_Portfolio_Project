@@ -70,3 +70,15 @@ This project is licensed under the terms of the [MIT License](https://github.com
 
 Development on this project is ongoing. If you have ideas or suggestions, feel free to contribute! If, for any reason, development slows down or stops, consider forking the project to keep it alive.
 
+## Other Projects
+
+### [www.blissfulceremony.com](https://www.blissfulceremony.com)
+
+Blissful Ceremony's mission is to provide the highest quality accessories and sets used to conduct ceremonies and rituals from around the world. We believe that we can learn a lot from every corner of the world and from every culture. We would like everyone interested in a given ceremony to be able to find all the necessary information, accessories, and support here.
+
+### [www.noor.pl](https://www.noor.pl)
+
+We are a Wrocław-based (Poland) company that has been producing and selling men's clothing since 1991. Our offer includes suits, jackets, trousers, shirts, ties, and pocket squares essential in a men's wardrobe. Thanks to cooperation with leaders among producers of fabrics and accessories from Italy, France, Portugal, and Spain, we have the highest quality materials and tailoring accessories.
+
+
+

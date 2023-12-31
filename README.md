@@ -1,6 +1,6 @@
-# Professional Portfolio README
+# Full Stack Developer | Professional Portfolio README
 
-## MIT Portfolio
+## Massachusetts Institute of Technology (MIT) Portfolio
 
 ### Description
 

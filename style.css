@@ -1,0 +1,124 @@
+/* General Reset */
+body, h1, h2, h3, h4, h5, h6, p, ul, ol {
+    margin: 0;
+    padding: 0;
+}
+
+/* Body Styles */
+body {
+    font-family: 'Roboto', sans-serif;
+    background-color: #f8f9fa;
+    color: #333;
+    margin-bottom: 50px;
+}
+
+@media (max-width: 767px) {
+    /* Responsive Styles */
+}
+
+/* Home Styles */
+.nav-item, p {
+    font-family: 'Contrail One', 'Pacifico', 'PT Sans Narrow', sans-serif;
+}
+
+#bio-title {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    font-size: 50px;
+    font-weight: 800;
+    color: #333;
+}
+
+.bio-container {
+    margin-top: 80px;
+}
+
+.bio-container img {
+    margin-bottom: 20px;
+}
+
+a {
+    color: darkolivegreen;
+}
+
+body {
+    margin-bottom: 50px;
+}
+
+.lead strong {
+    font-weight: bold;
+    color: darkolivegreen;
+}
+
+/* Contact Links Styles */
+.contact-links-container {
+    margin-top: 20px;
+    display: grid;
+    grid-template-columns: 1fr 1.5fr 1fr 1fr;
+}
+
+.label-column, .link-column, .empty-column {
+    text-align: left;
+}
+
+.label-column {
+    grid-column: 2;
+    font-size: 22px;
+}
+
+.link-column {
+    grid-column: 3;
+    font-size: 22px;
+}
+
+.empty-column {
+    width: 20px;
+}
+
+/* Space between labels and links in the last row */
+.contact-links-container .label-column:last-child,
+.contact-links-container .link-column:last-child {
+    margin-bottom: 10px;
+}
+
+.lead.title-section {
+    color: darkolivegreen;
+}
+
+/* Bio Container Styles */
+.bio-container p {
+    font-size: 22px;
+}
+
+/* Contact Styles */
+.email-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin-top: 0;
+}
+
+.email {
+    font-size: 30px;
+    margin-bottom: 20px;
+}
+
+.btn-custom {
+    background-color: darkolivegreen;
+    color: white;
+    font-weight: 400;
+    margin-bottom: 3px;
+}
+
+/* Projects Styles */
+.card-img-top {
+    height: 300px;
+    width: 100%;
+    object-fit: cover;
+}
+
+.card-title {
+    font-family: 'Contrail One', 'Pacifico', 'PT Sans Narrow', sans-serif;
+    font-weight: 700;
+}

@@ -126,3 +126,18 @@ body {
     font-family: 'Contrail One', 'Pacifico', 'PT Sans Narrow', sans-serif;
     font-weight: 700;
 }
+
+
+/* Additional styling for specific sections */
+#bio-title h2,
+#bio-title h4,
+#bio-title h5,
+.contact-links-container a,
+.lead.title-section,
+.bio-container h4,
+.bio-container h4 strong,
+.bio-container h4 strong,
+.bio-container h4 strong,
+.bio-container h4 strong {
+    font-weight: bold;
+}

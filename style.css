@@ -23,10 +23,14 @@ body {
 
 #bio-title {
     margin-top: 21px;
-    margin-bottom: 20px;
+    margin-bottom: 5px;
     font-size: 50px;
     font-weight: 800;
     color: #333;
+}
+
+.lead.strong {
+    font-weight: bold;
 }
 
 .bio-container {
@@ -34,7 +38,7 @@ body {
 }
 
 .bio-container img {
-    margin-bottom: 20px;
+    margin-bottom: 10px;
 }
 
 a {
@@ -100,7 +104,7 @@ body {
 }
 
 .email {
-    font-size: 30px;
+    font-size: 25px;
     margin-bottom: 20px;
 }
 
